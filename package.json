@@ -1,0 +1,16 @@
+{
+  "name": "cloudflow",
+  "version": "1.0.0",
+  "description": "Beginner DevOps portfolio project",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
